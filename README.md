@@ -9,6 +9,7 @@ git clone https://github.com/someshdhule/Text-Encryption.git
 
 After Download is done goes to the folder where you download it.
 After that Install Python (If not Installed)
+
 To install python:-
 sudo apt install python3
 
